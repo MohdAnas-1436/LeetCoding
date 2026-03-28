@@ -3,11 +3,10 @@
 
 #include <vector>
 #include <string>
-#include <iostream>
 
 using namespace std;
 
-// Fast I/O to guarantee 100% execution speed
+// Fast I/O
 static const int _ = []() {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
@@ -19,43 +18,43 @@ class Solution {
 public:
     string findTheString(vector<vector<int>>& lcp) {
         int n = lcp.size();
-        string word(n, ' ');
-        char c = 'a';
         
-        // Step 1: Greedily construct the lexicographically smallest string
-        for (int i = 0; i < n; ++i) {
-            if (word[i] == ' ') {
-                if (c > 'z') return ""; // We only have 26 lowercase letters available
-                word[i] = c;
-                for (int j = i + 1; j < n; ++j) {
-                    // If lcp > 0, the strings share a prefix, hence the same starting character
-                    if (lcp[i][j] > 0) {
-                        if (word[j] == ' ') {
-                            word[j] = c;
-                        }
-                    }
-                }
-                c++;
-            }
+        // OPTIMIZATION 1: O(N) Early Exit for invalid diagonals
+        // The LCP of a suffix with itself must be its full length (n - i)
+        for(int i = 0; i < n; ++i) {
+            if(lcp[i][i] != n - i) return "";
         }
         
-        // Step 2: Validate the constructed string perfectly matches the LCP array
-        for (int i = n - 1; i >= 0; --i) {
-            for (int j = n - 1; j >= 0; --j) {
+        // Using 0 as unassigned instead of ' ' is slightly faster for char comparisons
+        string word(n, 0); 
+        char c = 'a';
+        
+        // Greedily construct the string
+        for (int i = 0; i < n; ++i) {
+            if (word[i]) continue;
+            if (c > 'z') return "";
+            
+            for (int j = i; j < n; ++j) {
+                if (lcp[i][j] > 0) {
+                    word[j] = c;
+                }
+            }
+            c++;
+        }
+        
+        // OPTIMIZATION 2 & 3: Forward iteration (Cache friendly) & Upper Triangle only (50% fewer checks)
+        for (int i = 0; i < n; ++i) {
+            for (int j = i; j < n; ++j) {
+                
+                // Enforce symmetry dynamically
+                if (lcp[i][j] != lcp[j][i]) return "";
+                
                 int expected = 0;
-                
                 if (word[i] == word[j]) {
-                    expected = 1;
-                    // Safely utilize the previously validated diagonal LCP
-                    if (i + 1 < n && j + 1 < n) {
-                        expected += lcp[i + 1][j + 1];
-                    }
+                    expected = 1 + ((i + 1 < n && j + 1 < n) ? lcp[i + 1][j + 1] : 0);
                 }
                 
-                // If reality doesn't match the matrix, it's invalid
-                if (lcp[i][j] != expected) {
-                    return "";
-                }
+                if (lcp[i][j] != expected) return "";
             }
         }
         
