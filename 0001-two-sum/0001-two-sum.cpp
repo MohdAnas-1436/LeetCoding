@@ -2,7 +2,6 @@
 #include <unordered_map>
 #include <iostream>
 
-// Compiler directive to speed up I/O operations before main() executes
 static const int __ = []() {
     std::ios_base::sync_with_stdio(false);
     std::cin.tie(NULL);
