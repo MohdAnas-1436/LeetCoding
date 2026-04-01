@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0169-majority-element) |
 | [2573-find-the-string-with-lcp](https://github.com/MohdAnas-1436/LeetCoding/tree/master/2573-find-the-string-with-lcp) |
+| [2751-robot-collisions](https://github.com/MohdAnas-1436/LeetCoding/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MohdAnas-1436/LeetCoding/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/MohdAnas-1436/LeetCoding/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Hash Table
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0169-majority-element) |
+| [2751-robot-collisions](https://github.com/MohdAnas-1436/LeetCoding/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/MohdAnas-1436/LeetCoding/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Counting
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2751-robot-collisions](https://github.com/MohdAnas-1436/LeetCoding/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MohdAnas-1436/LeetCoding/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## String
 |  |
@@ -86,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/MohdAnas-1436/LeetCoding/tree/master/3474-lexicographically-smallest-generated-string) |
+## Stack
+|  |
+| ------- |
+| [2751-robot-collisions](https://github.com/MohdAnas-1436/LeetCoding/tree/master/2751-robot-collisions) |
 <!---LeetCode Topics End-->
