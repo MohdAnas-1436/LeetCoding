@@ -1,19 +1,26 @@
+// This static block executes before the main program starts, 
+// speeding up LeetCode's internal input reading process.
+static const int fast_io = []() {
+    std::ios_base::sync_with_stdio(false);
+    std::cin.tie(NULL);
+    std::cout.tie(NULL);
+    return 0;
+}();
+
 class Solution {
 public:
     bool judgeCircle(string moves) {
-        int x = 0;
-        int y = 0;
+        // Create an array to act as a hash map for ASCII characters.
+        // Size 128 safely covers all standard ASCII characters.
+        int counts[128] = {0};
         
-        for (char move : moves) {
-            switch (move) {
-                case 'U': y++; break;
-                case 'D': y--; break;
-                case 'R': x++; break;
-                case 'L': x--; break;
-            }
+        // Unconditionally increment the count for whatever character we see.
+        // This is branchless and blazingly fast.
+        for (char c : moves) {
+            counts[c]++;
         }
         
-        // If both x and y are back to 0, the robot is at the origin
-        return x == 0 && y == 0;
+        // Check if opposites cancel out
+        return (counts['U'] == counts['D']) && (counts['L'] == counts['R']);
     }
 };
