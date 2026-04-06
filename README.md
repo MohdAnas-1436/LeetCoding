@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0169-majority-element) |
+| [0874-walking-robot-simulation](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0874-walking-robot-simulation) |
 | [2573-find-the-string-with-lcp](https://github.com/MohdAnas-1436/LeetCoding/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/MohdAnas-1436/LeetCoding/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MohdAnas-1436/LeetCoding/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0169-majority-element) |
+| [0874-walking-robot-simulation](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0874-walking-robot-simulation) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/MohdAnas-1436/LeetCoding/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/MohdAnas-1436/LeetCoding/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Matrix
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0874-walking-robot-simulation) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/MohdAnas-1436/LeetCoding/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/MohdAnas-1436/LeetCoding/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MohdAnas-1436/LeetCoding/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
