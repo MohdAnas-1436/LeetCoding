@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MohdAnas-1436/LeetCoding/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/MohdAnas-1436/LeetCoding/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/MohdAnas-1436/LeetCoding/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/MohdAnas-1436/LeetCoding/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/MohdAnas-1436/LeetCoding/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Hash Table
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0169-majority-element) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/MohdAnas-1436/LeetCoding/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Sorting
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/MohdAnas-1436/LeetCoding/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/MohdAnas-1436/LeetCoding/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MohdAnas-1436/LeetCoding/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/MohdAnas-1436/LeetCoding/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## String
 |  |
 | ------- |
