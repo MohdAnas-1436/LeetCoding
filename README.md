@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0657-robot-return-to-origin) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/MohdAnas-1436/LeetCoding/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/MohdAnas-1436/LeetCoding/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2573-find-the-string-with-lcp](https://github.com/MohdAnas-1436/LeetCoding/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/MohdAnas-1436/LeetCoding/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/MohdAnas-1436/LeetCoding/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2573-find-the-string-with-lcp](https://github.com/MohdAnas-1436/LeetCoding/tree/master/2573-find-the-string-with-lcp) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/MohdAnas-1436/LeetCoding/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/MohdAnas-1436/LeetCoding/tree/master/3661-maximum-walls-destroyed-by-robots) |
