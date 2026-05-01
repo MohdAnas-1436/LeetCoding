@@ -15,22 +15,25 @@ int height(struct TreeNode* node) {
     
     int lh = height(node->left);
     int rh = height(node->right);
+
     int maxHeight = (lh > rh)? lh : rh;
+    int diameter = lh + rh;
+    answer = (answer < diameter)? diameter : answer;
     return 1 + maxHeight;
 }
 
-void diameter(struct TreeNode *root){
-    if (root == NULL) return;
-    int lh = height(root->left);
-    int rh = height(root->right);
-    int dia = lh + rh;
-    answer = (answer < dia)? dia : answer;
-    diameter(root->left);
-    diameter(root->right);
-}
+// void diameter(struct TreeNode *root){
+//     if (root == NULL) return;
+//     int lh = height(root->left);
+//     int rh = height(root->right);
+//     int dia = lh + rh;
+//     answer = (answer < dia)? dia : answer;
+//     diameter(root->left);
+//     diameter(root->right);
+// }
 
 int diameterOfBinaryTree(struct TreeNode* root) {
     answer = 0;
-    diameter(root);
+    height(root);
     return answer;
 }
