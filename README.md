@@ -149,14 +149,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0543-diameter-of-binary-tree) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/MohdAnas-1436/LeetCoding/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Tree
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0543-diameter-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
