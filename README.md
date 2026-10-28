@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0101-symmetric-tree) |
 | [0404-sum-of-left-leaves](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0543-diameter-of-binary-tree) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0101-symmetric-tree) |
 | [0404-sum-of-left-leaves](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0543-diameter-of-binary-tree) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0101-symmetric-tree) |
 | [0404-sum-of-left-leaves](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0543-diameter-of-binary-tree) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0098-validate-binary-search-tree) |
 ## Backtracking
 |  |
 | ------- |
