@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0002-add-two-numbers) |
+| [0096-unique-binary-search-trees](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0096-unique-binary-search-trees) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MohdAnas-1436/LeetCoding/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/MohdAnas-1436/LeetCoding/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Recursion
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0096-unique-binary-search-trees) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/MohdAnas-1436/LeetCoding/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2463-minimum-total-distance-traveled](https://github.com/MohdAnas-1436/LeetCoding/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/MohdAnas-1436/LeetCoding/tree/master/2573-find-the-string-with-lcp) |
@@ -156,12 +158,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0101-symmetric-tree) |
 | [0404-sum-of-left-leaves](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0101-symmetric-tree) |
 | [0404-sum-of-left-leaves](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0543-diameter-of-binary-tree) |
@@ -170,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0101-symmetric-tree) |
 | [0404-sum-of-left-leaves](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0404-sum-of-left-leaves) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
