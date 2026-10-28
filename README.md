@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0096-unique-binary-search-trees) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/MohdAnas-1436/LeetCoding/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2463-minimum-total-distance-traveled](https://github.com/MohdAnas-1436/LeetCoding/tree/master/2463-minimum-total-distance-traveled) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0101-symmetric-tree) |
 | [0404-sum-of-left-leaves](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0404-sum-of-left-leaves) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0101-symmetric-tree) |
 | [0404-sum-of-left-leaves](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0404-sum-of-left-leaves) |
@@ -177,5 +180,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0096-unique-binary-search-trees) |
+## Backtracking
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
