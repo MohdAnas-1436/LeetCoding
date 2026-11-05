@@ -190,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0095-unique-binary-search-trees-ii) |
+## Database
+|  |
+| ------- |
+| [0180-consecutive-numbers](https://github.com/MohdAnas-1436/LeetCoding/tree/master/0180-consecutive-numbers) |
 <!---LeetCode Topics End-->
